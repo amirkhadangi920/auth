@@ -1,0 +1,16 @@
+{
+    "name": "amirkhadangi920/auth",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Amirkhadangi920\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amir Khadangi",
+            "email": "AmirKhadangi920@Gmail.com"
+        }
+    ],
+    "require": {}
+}
